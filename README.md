@@ -1,4 +1,9 @@
 # UOCIS322 - Project 0
+author: Austin Warren
+contact email: awarren3@uoregon.edu
+description: prints out hello world.
+
+
 
 Trivial project to exercise version control, turn-in, and other mechanisms
 for CIS 322.
